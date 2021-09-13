@@ -1,4 +1,4 @@
-## syllabus of this Studio
+## Syllabus of this Studio
 [ARCH 3105 SYLLABUS.pdf](https://github.com/Ollie106/Sihan-Zhu/files/7152946/ARCH.3105.SYLLABUS.pdf)
 
 ## Key Words:
