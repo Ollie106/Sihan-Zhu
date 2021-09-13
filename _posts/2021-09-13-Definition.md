@@ -24,5 +24,10 @@ The type of site I want to choose is a standalone site - very small residual sit
 
 ![image](https://user-images.githubusercontent.com/90564579/133054287-e7836001-509c-4bc3-a7e8-fe09fa736dbf.png)
 ![image](https://user-images.githubusercontent.com/90564579/133054314-326f1f41-b3d6-42ee-8efe-9a34ad5c1ab3.png)
+## Case Study
+[Case Study.pdf](https://github.com/Ollie106/Sihan-Zhu/files/7153098/Case.Study.pdf)
+
 ### References:
 https://www.bilibili.com/video/BV1fv411c7r7?from=search&seid=17713362099930534862&spm_id_from=333.337.0.0
+https://www.gooood.cn/shangwei-village-plugin-house-shenzhen-china-by-pao.htm
+https://www.archdaily.com/965348/house-in-ocuilan-palma
