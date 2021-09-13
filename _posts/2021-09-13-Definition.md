@@ -30,4 +30,5 @@ The type of site I want to choose is a standalone site - very small residual sit
 ### References:
 https://www.bilibili.com/video/BV1fv411c7r7?from=search&seid=17713362099930534862&spm_id_from=333.337.0.0
 https://www.gooood.cn/shangwei-village-plugin-house-shenzhen-china-by-pao.htm
+
 https://www.archdaily.com/965348/house-in-ocuilan-palma
