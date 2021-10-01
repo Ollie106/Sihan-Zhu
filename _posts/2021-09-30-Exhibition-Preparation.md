@@ -34,6 +34,13 @@ The picture above is the arrangement of water collection pipes.
 ### SECTION
 ![SECTION3 0 1](https://user-images.githubusercontent.com/90564579/135554092-a1863dab-7708-4b29-aaca-7049694a440d.png)
 ![SECTION3 0 2](https://user-images.githubusercontent.com/90564579/135554095-9dd270f5-29fb-4781-bf5d-15d12ab5ca6d.png)
+### 3D MODEL
+![微信截图_20211001093259](https://user-images.githubusercontent.com/90564579/135559480-6c1cea30-6623-4c9c-a853-32199fe52713.png)
+![微信截图_20211001093411](https://user-images.githubusercontent.com/90564579/135559483-3d535445-a86a-477c-8df8-a4439eca5307.png)
+![微信截图_20211001093458](https://user-images.githubusercontent.com/90564579/135559486-4982606a-c32e-4064-bd12-894e6efb83ad.png)
+![微信截图_20211001110926](https://user-images.githubusercontent.com/90564579/135559578-8dffd100-b32f-42d3-86f1-cdec1be6a456.png)
+![微信截图_20211001110939](https://user-images.githubusercontent.com/90564579/135559583-63a507e4-59e9-4c89-afb4-bc125bc0ed2c.png)
+In the new 3D model, I modified the space utilization of the bathroom and increased the shower area and water storage tank. At the same time, the outdoor space and entrance hall for bicycles are increased. The roof has also become a platform for sightseeing.
 ### Precedents/Case study
 ![家具例子1](https://user-images.githubusercontent.com/90564579/135554203-5b1d35e6-fe8a-41fe-ac60-ef8a0c31cb8b.jpg)
 ![家具例子2](https://user-images.githubusercontent.com/90564579/135554205-93cfa60f-776a-4ac6-9937-ac53d261f8ef.jpg)
